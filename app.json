@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "slktv",
+    "slug": "slktv",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 14,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ktvnaicc.slktv"
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "05e88dc2-4eff-48d4-bec9-baa332a1feff"
+      }
+    },
+   
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

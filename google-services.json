@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1090092992877",
+    "project_id": "tvprograme-9891a",
+    "storage_bucket": "tvprograme-9891a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090092992877:android:5090dafc193ec3e0cf7264",
+        "android_client_info": {
+          "package_name": "com.ktvnaicc.slktv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090092992877-38vvj9jf0gsue97sg3v44c24hlnuuq2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mDs6980jsnl9fesFU4_Hh5vQi4gq2MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090092992877-38vvj9jf0gsue97sg3v44c24hlnuuq2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090092992877:android:8f206b907109208acf7264",
+        "android_client_info": {
+          "package_name": "com.slktv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090092992877-38vvj9jf0gsue97sg3v44c24hlnuuq2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mDs6980jsnl9fesFU4_Hh5vQi4gq2MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090092992877-38vvj9jf0gsue97sg3v44c24hlnuuq2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
